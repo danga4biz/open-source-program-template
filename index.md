@@ -1,5 +1,4 @@
 ---
-layout: default
 title: United States Open Source Program
 published: true
 ---
