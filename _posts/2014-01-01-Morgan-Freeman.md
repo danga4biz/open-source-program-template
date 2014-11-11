@@ -4,6 +4,7 @@ title: "Morgan Freeman: Who said OSS is un-American?"
 date: 2014-02-02 09:00:00
 categories: oss news
 published: true
+tags: OSS
 ---
 
 Software falls but can be rebuilt. Heroes die but they are remembered. Circumstances have taught me that a man's ethics are the only possessions he will take beyond the grave. I once heard a wise man say there is no perfect software&mdash;only
