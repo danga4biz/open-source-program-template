@@ -1,6 +1,7 @@
 # permalink > defines the blog post url-convention
-permalink: /news/:title
+
 # Base configuration
+permalink: /news/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 markdown: kramdown
 pygments: true
